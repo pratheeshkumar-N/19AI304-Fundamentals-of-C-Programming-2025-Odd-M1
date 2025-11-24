@@ -152,6 +152,7 @@ int main() {
 <img width="1352" height="753" alt="image" src="https://github.com/user-attachments/assets/74ad4e94-820e-48f8-9cc3-57cbdfbf2bfc" />
 
 # Result: 
+Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd
 # IAPR-1- Module 1 - FoC
