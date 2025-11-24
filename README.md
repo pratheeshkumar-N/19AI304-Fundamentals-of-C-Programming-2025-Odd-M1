@@ -1,7 +1,7 @@
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M1
 
-## NMAE : Prateesh kumar . N
-## REF NO :212224020041
+## NAME : Prateesh kumar . N
+## REG NO :212224020041
 
 # IAPR-1- Module 1 - FoC
 ## 1. Implementation of basic C programs using Literals,Consonants, Variables, Data types.
